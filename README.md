@@ -1,2 +1,2 @@
 # Deep-Learning-Travel-Experience
-MIT certification program Hackathon codes.
+MIT certification program Hackathon.
